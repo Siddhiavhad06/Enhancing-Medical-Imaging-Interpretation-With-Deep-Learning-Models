@@ -1,5 +1,4 @@
-# LifePredict
-LifePredict is a deep learning-based disease detection system built using Streamlit. It allows users to detect diseases like breast cancer, brain tumors, and kidney disease using AI-powered models. The application provides an easy-to-use interface where users can upload medical images and receive predictions. The system is designed to assist in early disease detection, helping medical professionals and patients make informed decisions.
+The project based on deep learning-based disease detection system built using Streamlit. It allows users to detect diseases like breast cancer, brain tumors, and kidney disease using AI-powered models. The application provides an easy-to-use interface where users can upload medical images and receive predictions. The system is designed to assist in early disease detection, helping medical professionals and patients make informed decisions.
 
 #Features
 1.Deep Learning-Based Predictions: Uses trained AI models to detect diseases with high accuracy.
